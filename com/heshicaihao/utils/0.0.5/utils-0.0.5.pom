@@ -8,9 +8,9 @@
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
-      <groupId>com.heshicaihao</groupId>
-      <artifactId>rsa</artifactId>
-      <version>0.0.0</version>
+      <groupId>org.bouncycastle</groupId>
+      <artifactId>bcprov-jdk16</artifactId>
+      <version>1.46</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
